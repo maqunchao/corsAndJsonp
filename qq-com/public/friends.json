@@ -1,7 +1,5 @@
 [
-    {
-        "name":"jackma",
-        "name":"牛顿",
-        "name":"马援"
-    }
+    {"name":"jackma",
+    "name1":"牛顿",
+    "name2":"马援"}
 ]

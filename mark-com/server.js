@@ -3,7 +3,6 @@ var http = require('http');
 var fs = require('fs');
 var url = require('url');
 var port = process.argv[2];
-console.log(JSON.stringify(process.argv), '12313213123');
 if(!port){
     console.log('请指定端口号好不啦？\nnode server.js 8888 这样不会吗？')
     process.exit(1)
